@@ -12,7 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.uasset
 
 # Visual Studio 2015 user specific files
 .vs/
