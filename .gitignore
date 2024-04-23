@@ -55,6 +55,8 @@ Saved
 *.sdf
 *.VC.db
 *.VC.opendb
+*.uasset
+*.uprojectdirs
 
 # Precompiled Assets
 SourceArt/**/*.png
